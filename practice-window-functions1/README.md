@@ -9,7 +9,9 @@ CREATE TABLE employees (
 );
 
 INSERT INTO employees (emp_id, emp_name, department, salary, hire_date)
+
 VALUES
+
 (1, 'Alice', 'HR', 55000, '2018-01-15'),
 (2, 'Bob', 'IT', 75000, '2017-05-23'),
 (3, 'Charlie', 'Finance', 82000, '2019-03-12'),
